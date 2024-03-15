@@ -1,0 +1,3 @@
+gz = gunzip (default availble)
+br = brotil by google (https://github.com/google/ngx_brotli )
+zstd = Zstandard by facebook (https://github.com/tokers/zstd-nginx-module)
